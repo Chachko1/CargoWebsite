@@ -27,7 +27,7 @@ const NavBar = () => {
                     <span className="text-customBlue lg:ml-auto lg:mr-10 font-semibold text-3xl tracking-tight">Website</span>
                 </Link>
                 <button onClick={toggleMenu} className={menuIconClasses}>
-                    {isOpen ? <img src="/CloseIcon.png" alt="" width={35} height={35} /> : <img src="/MenuIcon.svg" width={35} height={35} />}
+                    {isOpen ? <img src="/CloseIcon.png" alt="" width={80} height={80} /> : <img src="/MenuIcon.svg" width={80} height={80} />}
                 </button>
             </div>
 
