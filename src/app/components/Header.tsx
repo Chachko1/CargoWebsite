@@ -8,7 +8,7 @@ const Header = () => {
                 Гъвкави решения за сухопътен транспорт за всеки клиент
             </h1>
         <div className="mt-5 max-w-[90%] lg:mt-[60px]">
-            <img src="Image.png" alt="" width={969} height={690} />
+            <img src="IMG_3821.png" alt="" width={969} height={690} />
         </div>
     
         </section>
