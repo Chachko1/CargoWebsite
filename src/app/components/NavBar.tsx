@@ -34,7 +34,7 @@ const spanClasses="hover:text-customBlue whitespace-nowrap";
             </button>
         </div>
         
-        <div className={`${menuContainerClasses} sm:ml-10`}>
+        <div className={`${menuContainerClasses} sm:ml-10 text-customGreen`}>
             <Link href="#" className={menuItemClasses}>
                 <span className={`${spanClasses} lg:ml-2 `}>Начало</span>
             </Link>
